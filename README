@@ -1,0 +1,13 @@
+# clj-morse
+
+A simple pair of functions to encode a string in Morse and decode morse into strings.
+
+## Usage
+
+
+
+## License
+
+Copyright (C) 2012 Alberto Bengoa
+
+Distributed under the Eclipse Public License, the same as Clojure.
