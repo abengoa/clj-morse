@@ -31,4 +31,4 @@
 
 
 
-(morse-to-string (string-to-morse "Just type letters, numbers and punctuation into the top box and press the \"Translate\" button. The program will place the Morse code in the bottom box, inserting a \"?\" if the character cannot be translated. If you are learning Morse code it is recommended that you use the \"toggle\" button to turn of the dots and dashes output as reading this can slow your learning down."))
+;(morse-to-string (string-to-morse "Just type letters, numbers and punctuation into the top box and press the \"Translate\" button. The program will place the Morse code in the bottom box, inserting a \"?\" if the character cannot be translated. If you are learning Morse code it is recommended that you use the \"toggle\" button to turn of the dots and dashes output as reading this can slow your learning down."))

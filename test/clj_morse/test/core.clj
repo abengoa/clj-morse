@@ -4,5 +4,5 @@
 
 (def teststring "abcdefghijklmnopqrstuvwxyz ,l./?\"'=+-_()&$@;:")
 
-(deftest replace-me ;; FIXME: write
+(deftest morse-test
   (is true (= teststring (morse-to-string (string-to-morse teststring)))))
